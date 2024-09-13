@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name":" NIKE AIR FORCE",
+        "price": 1900.00,
+        "image": "image/air.png"
+    },
+    {
+        "id": 2,
+        "name":" NIKE BLAZER",
+        "price": 900.00,
+        "image": "image/blazer.png"
+    },
+    {
+        "id": 3,
+        "name":" NIKE AIR FORCE 2",
+        "price": 1500.00,
+        "image": "image/8.png"
+    },
+    {
+        "id": 4,
+        "name":" NIKE LOW GYM",
+        "price": 850.00,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" NIKE LOW GYM 2.0",
+        "price": 850.00,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" NIKE ROSH",
+        "price": 950.00,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" JORDAN HI-TOPS",
+        "price": 850.00,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" NIKE CRATER",
+        "price": 1500.00,
+        "image": "image/crater.png"
+    },
+
+    {
+        "id": 9,
+        "name":" MEN'S BLUE REGULAR JEANS",
+        "price": 500.00,
+        "image": "image/jean1.png"
+    },
+    {
+        "id": 10,
+        "name":" WOMEN'S BLUE ZIPPED JEANS",
+        "price": 500.00,
+        "image": "image/jean2.png"
+    },
+    {
+        "id": 11,
+        "name":" WOMEN'S SLIM FIT JEANS",
+        "price": 500.00,
+        "image": "image/jean3.png"
+    },
+    {
+        "id": 12,
+        "name":" MEN'S CHIPPED REGULAR JEANS",
+        "price": 500.00,
+        "image": "image/jean4.png"
+    },
+
+    {
+        "id": 9,
+        "name":" YELLOW HOODIE",
+        "price": 300.00,
+        "image": "image/hoodie1.png"
+    },
+    {
+        "id": 10,
+        "name":" WHITE HOODIE",
+        "price": 500.00,
+        "image": "image/hoodie2.png"
+    },
+    {
+        "id": 11,
+        "name":" BABY BLUE HOODIE",
+        "price": 300.00,
+        "image": "image/hoodie5.png"
+    },
+    {
+        "id": 12,
+        "name":" PURPLE HOODIE",
+        "price": 400.00,
+        "image": "image/hoodie3.png"
+    }
+
+
+]
